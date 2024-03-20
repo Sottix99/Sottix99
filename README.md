@@ -1,5 +1,5 @@
 #  About Me:
-💻 MSc student in Data Science at Sapienza Università di Roma<br><br>🎓Bachelor degree in Statistics<br><br>🔭 Astronomy enthusiast<br><br>
+🎓 Master degree in Data Science at Sapienza Università di Roma<br><br>🎓Bachelor degree in Statistics<br><br>🔭 Astronomy enthusiast<br><br>
 
 
 ## 🌐 Socials:
